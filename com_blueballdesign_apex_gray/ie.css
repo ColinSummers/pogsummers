@@ -1,0 +1,17 @@
+/*
+Design Name:  Blueball Simplex Responsive
+Style Sheet: ie.css
+Created: 23, March, 2015
+Last Modified: 28, September, 2015
+Version: 1.0
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2015 Blueball Design LLC USA/Charlie Lockhart, All Rights Reserved
+*/
+
+
+/*CSS NEEDED TO FIX SOME POSITIONING ISSUES IN IE8*/
+
+#nav > ul ul {
+	z-index: 1010;
+}
