@@ -141,6 +141,16 @@ h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
 
 p { margin-bottom: 1rem; color: var(--text-secondary); }
 
+.sold-dot {
+  display: inline-block;
+  width: 0.55em;
+  height: 0.55em;
+  background: #c33;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-left: 0.15em;
+}
+
 /* ============================================
    Home / hero
    ============================================ */
